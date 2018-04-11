@@ -2,7 +2,7 @@
 # ARToolKit.js
 
 Emscripten port of [ARToolKit](https://github.com/artoolkit/artoolkit5) to JavaScript.
-Utilisation de jsartoolkit sur une page web
+Utilisation de jsartoolkit sur une page web (mozilla)
 Detection des marqueurs pattern hiro et kanji 
 Affichage de donuts et sphere 3D
 
